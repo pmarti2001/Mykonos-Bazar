@@ -1,0 +1,19 @@
+    {
+      "id": 1,
+      "nombre": "Set ollas Hudson grises x 12",
+      "precio": 125000,
+      "imagen": "https://picsum.photos/200?1"
+    },
+    {
+      "id": 2,
+      "nombre": "Colador acero inoxidable",
+      "precio": 45000,
+      "imagen": "https://picsum.photos/200?2"
+    },
+    {
+      "id": 3,
+      "nombre": "Set tupper x 6",
+      "precio": 18000,
+      "imagen": "https://picsum.photos/200?3"
+    }
+  ]
